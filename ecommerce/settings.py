@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
+CARRINHO_SESSION_ID = 'carrinho'
 
 # Application definition
 
